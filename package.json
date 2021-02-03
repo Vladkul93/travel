@@ -1,0 +1,16 @@
+{
+  "name": "psd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "jquery": "3.5.1",
+    "reset-css": "5.0.1"
+  },
+  "author": "vlad",
+  "license": "ISC"
+}
